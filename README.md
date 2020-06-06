@@ -1,2 +1,2 @@
 #HulaTour WebDesign
-build with bootstrap and laravel
+build with bootstrap
